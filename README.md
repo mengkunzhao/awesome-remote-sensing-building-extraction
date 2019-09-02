@@ -1,6 +1,6 @@
-# Awesome Remote Sensing Change Detection [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Remote Sensing Building Extraction [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-List of datasets, codes and contests related to remote sensing building segmentation.The newest at the top of each category.
+List of datasets, codes and contests related to remote sensing building Extraction.The newest at the top of each category.
 
 ![](/2019-Deep-Instance-Segmentation-Network.png)
 
